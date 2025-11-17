@@ -216,3 +216,8 @@ Build RFM, churn, and segmentation models
 Create dashboard visualizations
 
 Translate data into actionable business insights
+
+
+### Dashboard Report
+You can view the full dashboard here:
+[Dashboard PDF](Dashboard Report.pdf)
