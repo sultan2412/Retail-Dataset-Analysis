@@ -220,4 +220,4 @@ Translate data into actionable business insights
 
 ### Dashboard Report
 You can view the full dashboard here:
-[Dashboard PDF](dashboards/Dashboard%20Report.pdf)
+[Dashboard PDF](Dashboard%20Report.pdf)
